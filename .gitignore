@@ -14,15 +14,15 @@ node_modules
 prod
 
 # distribution resources
-resources/**/*.css
-resources/images
+# resources/**/*.css
+# resources/images
 
 # type definition
-*.d.ts
+# *.d.ts
 
 # aot
-aot
-components/**/*.metadata.json
+# aot
+# components/**/*.metadata.json
 
 # misc 
 *.log
